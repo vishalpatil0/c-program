@@ -7,7 +7,6 @@ int main()
 {
         char str[100];
         cout<<"Enter the string that you want to convert to uppercase and lowercase"<<endl;
-        cin.ignore();
         cin.getline(str,100);
         cout << "The uppercase version of \"" << str << "\" is " << endl;
         for (int i=0; i<strlen(str); i++)
