@@ -22,6 +22,7 @@ int main()
 	}
 	cout<<"---------------------------"<<endl;
 	 int i=0;
+	 //following loop scan the value while looping
 	for(cin>>i;i<=10;i++)
 	{
 		cout<<i<<endl;
