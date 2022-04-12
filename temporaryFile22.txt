@@ -1,0 +1,3 @@
+hello there c program repository adding this to make sure it get pushed
+clear
+clear
